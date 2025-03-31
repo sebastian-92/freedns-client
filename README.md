@@ -117,7 +117,7 @@ Use the `client.update_subdomain` function to update an existing subdomain. The 
 If you don't supply one of the optional arguments, then the value won't change. If the operation fails, a `RuntimeError` will be raised.
 
 ## Copyright: 
-This program is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt). All code has been written by me, [ading2210](https://github.com/ading2210).
+This program is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt). Original project written by [ading2210](https://github.com/ading2210), modified by [cbass92](https://github.com/sebastian-92)
 
 ### Copyright Notice:
 ```
